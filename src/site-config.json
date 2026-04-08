@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Sotres Concrete",
+    "phone": "+15043585195",
+    "category": "concrete contractor",
+    "city": "New Orleans",
+    "state": "LA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "New Orleans Concrete Experts",
+      "heroSubline": "Durable concrete solutions built to withstand the Louisiana climate. We deliver quality craftsmanship and lasting results.",
+      "aboutTitle": "Built on Experience, Rooted in New Orleans",
+      "aboutText": [
+        "Sotres Concrete started with a simple mission: to provide dependable concrete services to our New Orleans neighbors. Founded by a local craftsman with a passion for quality, we've grown from a small operation to a trusted contractor, known for our expertise and commitment to customer satisfaction.",
+        "We believe in doing things the right way, every time. From careful planning to precise execution, we focus on delivering durable, long-lasting concrete solutions that stand up to the unique challenges of the New Orleans environment. We prioritize clear communication, transparent pricing, and a meticulous approach to every project.",
+        "We're proud to be a part of the New Orleans community and are committed to giving back. We actively support local initiatives and organizations, believing in the power of strong communities and responsible business practices."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand the specific challenges of New Orleans concrete, from soil conditions to hurricane-force winds."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only the highest-grade concrete and materials to ensure lasting durability and performance."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We show up on time, complete projects efficiently, and stand behind our work."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide clear, detailed estimates with no hidden costs or surprises."
+        }
+      ],
+      "ctaHeadline": "Ready for a Solid Foundation?",
+      "ctaSubline": "Contact Sotres Concrete today for a free estimate and let's discuss your project."
+    },
+    "services": [
+      {
+        "slug": "concrete-driveways",
+        "name": "Concrete Driveways",
+        "shortDescription": "Durable and attractive concrete driveways designed to withstand New Orleans' unique climate.",
+        "description": "A well-built concrete driveway adds value and curb appeal to your home. At Sotres Concrete, we specialize in designing and installing driveways that can withstand the heavy rainfall, humidity, and fluctuating temperatures of New Orleans. We start with proper site preparation, including excavation and compaction, to ensure a stable base. We then pour high-quality concrete, reinforced with rebar or fiber mesh, to prevent cracking and settling. Whether you're looking for a traditional gray driveway or a decorative stamped concrete design, we can create a driveway that complements your home's architecture and lasts for years to come. We also handle driveway extensions and repairs, addressing common issues like cracks, potholes, and drainage problems. Protect your investment with a Sotres Concrete driveway.",
+        "process": [
+          "Step 1: Site Evaluation and Design Consultation",
+          "Step 2: Excavation and Base Preparation",
+          "Step 3: Concrete Pouring and Finishing",
+          "Step 4: Curing and Sealing"
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced curb appeal",
+          "Long-lasting durability",
+          "Low maintenance"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take to install a concrete driveway?",
+            "answer": "The installation time depends on the size and complexity of the project, but typically takes 3-5 days. This includes site preparation, pouring, curing, and sealing."
+          },
+          {
+            "question": "How thick should my concrete driveway be?",
+            "answer": "For residential driveways, we recommend a minimum thickness of 4 inches. However, for heavier vehicles or commercial use, we may recommend a thicker slab."
+          },
+          {
+            "question": "What type of maintenance is required for a concrete driveway?",
+            "answer": "Regular cleaning and sealing can help protect your driveway from stains and damage. We recommend resealing your driveway every 2-3 years."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-patios",
+        "name": "Concrete Patios",
+        "shortDescription": "Create the perfect outdoor living space with a custom-designed concrete patio.",
+        "description": "Transform your backyard into an inviting oasis with a custom concrete patio from Sotres Concrete. We specialize in designing and installing patios that are both beautiful and functional, perfect for entertaining or relaxing with family. We offer a wide range of design options, including stamped concrete, exposed aggregate, and colored concrete, allowing you to create a unique look that complements your home and landscape. Our patios are built to withstand the harsh Louisiana elements, from intense sun to heavy rain. We pay close attention to drainage to prevent water damage and ensure a long lifespan. Whether you're looking for a small, intimate patio or a large, expansive outdoor living area, we can bring your vision to life. We also offer patio repair and resurfacing services to restore your existing patio to its former glory.",
+        "process": [
+          "Step 1: Design Consultation and Site Planning",
+          "Step 2: Excavation and Grading",
+          "Step 3: Concrete Pouring and Finishing",
+          "Step 4: Sealing and Curing"
+        ],
+        "benefits": [
+          "Increased outdoor living space",
+          "Enhanced property value",
+          "Customizable designs",
+          "Durable and low-maintenance"
+        ],
+        "faq": [
+          {
+            "question": "How much does a concrete patio cost?",
+            "answer": "The cost of a concrete patio depends on the size, design, and complexity of the project. We offer free estimates to provide you with an accurate price."
+          },
+          {
+            "question": "What is stamped concrete?",
+            "answer": "Stamped concrete is a decorative concrete technique that involves imprinting patterns and textures onto freshly poured concrete to resemble brick, stone, or other materials."
+          },
+          {
+            "question": "How long does it take to install a concrete patio?",
+            "answer": "The installation time varies depending on the size and complexity of the project, but typically takes 2-4 days."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-foundations",
+        "name": "Concrete Foundations",
+        "shortDescription": "Solid and reliable concrete foundations for new construction and renovations in New Orleans.",
+        "description": "A strong foundation is the cornerstone of any building. At Sotres Concrete, we specialize in pouring and repairing concrete foundations that provide a stable and durable base for homes and commercial properties throughout New Orleans. We understand the unique soil conditions and potential for flooding in the area, and we take extra precautions to ensure that our foundations are built to withstand these challenges. We use high-quality concrete mixes and reinforcement techniques to create foundations that are resistant to cracking, settling, and water damage. Whether you're building a new home, adding an addition, or repairing an existing foundation, you can trust Sotres Concrete to deliver exceptional results. We adhere to all local building codes and regulations, ensuring that your foundation is safe, structurally sound, and built to last.",
+        "process": [
+          "Step 1: Site Survey and Soil Testing",
+          "Step 2: Excavation and Formwork",
+          "Step 3: Concrete Pouring and Reinforcement",
+          "Step 4: Curing and Inspection"
+        ],
+        "benefits": [
+          "Structural stability",
+          "Long-lasting durability",
+          "Resistance to water damage",
+          "Compliance with building codes"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my foundation needs repair?",
+            "answer": "Signs of foundation problems include cracks in walls or floors, sticking doors or windows, and uneven floors. If you notice any of these issues, it's important to have your foundation inspected by a professional."
+          },
+          {
+            "question": "What is the difference between a slab foundation and a pier and beam foundation?",
+            "answer": "A slab foundation is a concrete slab poured directly on the ground, while a pier and beam foundation uses concrete piers and beams to support the structure above ground. Pier and beam foundations are often used in areas prone to flooding."
+          },
+          {
+            "question": "How long does it take to pour a concrete foundation?",
+            "answer": "The time required to pour a concrete foundation depends on the size and complexity of the project, but typically takes 1-3 days."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-sidewalks",
+        "name": "Concrete Sidewalks",
+        "shortDescription": "Safe and accessible concrete sidewalks for residential and commercial properties.",
+        "description": "Ensure the safety and accessibility of your property with professionally installed concrete sidewalks from Sotres Concrete. We specialize in building durable and attractive sidewalks that meet all local codes and regulations, providing a safe and comfortable walking surface for pedestrians. We offer a variety of design options, including standard gray concrete, colored concrete, and decorative finishes. We pay close attention to proper grading and drainage to prevent water accumulation and ensure a long lifespan. Whether you need a new sidewalk installed, an existing sidewalk repaired, or a sidewalk replaced, we have the expertise and equipment to get the job done right. We also offer sidewalk maintenance services, including cleaning, sealing, and crack repair, to keep your sidewalks looking their best.",
+        "process": [
+          "Step 1: Site Assessment and Planning",
+          "Step 2: Excavation and Grading",
+          "Step 3: Concrete Pouring and Finishing",
+          "Step 4: Curing and Sealing"
+        ],
+        "benefits": [
+          "Improved safety and accessibility",
+          "Enhanced property value",
+          "Compliance with local codes",
+          "Durable and low-maintenance"
+        ],
+        "faq": [
+          {
+            "question": "What are the requirements for sidewalk width and slope?",
+            "answer": "Sidewalk width and slope requirements vary depending on local codes and regulations. We are familiar with all local requirements and will ensure that your sidewalk meets all necessary standards."
+          },
+          {
+            "question": "How do I prevent my concrete sidewalk from cracking?",
+            "answer": "Proper site preparation, the use of high-quality concrete, and adequate curing can help prevent cracking in concrete sidewalks."
+          },
+          {
+            "question": "How often should I seal my concrete sidewalk?",
+            "answer": "We recommend sealing your concrete sidewalk every 2-3 years to protect it from stains and damage."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-repairs",
+        "name": "Concrete Repairs",
+        "shortDescription": "Reliable concrete repair services to restore the integrity and appearance of your property.",
+        "description": "Cracked, damaged, or deteriorated concrete can be unsightly and even dangerous. Sotres Concrete offers comprehensive concrete repair services to restore the integrity and appearance of your property. We specialize in repairing a wide range of concrete problems, including cracks, spalling, potholes, and settling. We use proven techniques and high-quality materials to ensure that our repairs are durable and long-lasting. Whether you need a small crack filled or a large section of concrete replaced, we have the expertise and equipment to get the job done right. We also offer concrete resurfacing services to give your existing concrete a fresh, new look. Don't let damaged concrete detract from the beauty and value of your property. Contact Sotres Concrete for reliable and affordable concrete repair services.",
+        "process": [
+          "Step 1: Assessment of Damage",
+          "Step 2: Surface Preparation",
+          "Step 3: Repair Material Application",
+          "Step 4: Curing and Sealing"
+        ],
+        "benefits": [
+          "Restored structural integrity",
+          "Improved appearance",
+          "Prevention of further damage",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "What causes concrete to crack?",
+            "answer": "Concrete can crack due to a variety of factors, including temperature changes, moisture, heavy loads, and improper installation."
+          },
+          {
+            "question": "Can I repair a cracked concrete slab myself?",
+            "answer": "While small cracks can be repaired with DIY kits, larger or more complex cracks should be repaired by a professional to ensure a durable and long-lasting repair."
+          },
+          {
+            "question": "How long will the concrete repair last?",
+            "answer": "The lifespan of a concrete repair depends on the quality of the repair and the environmental conditions. With proper installation and maintenance, our repairs can last for many years."
+          }
+        ]
+      },
+      {
+        "slug": "stamped-concrete",
+        "name": "Stamped Concrete",
+        "shortDescription": "Add elegance and style to your surfaces with decorative stamped concrete.",
+        "description": "Elevate the look of your patios, driveways, and walkways with beautiful stamped concrete from Sotres Concrete. Stamped concrete is a versatile and affordable way to add texture, color, and pattern to your concrete surfaces, creating the look of natural stone, brick, or tile without the cost and maintenance. We offer a wide range of stamp patterns and colors to choose from, allowing you to create a unique and personalized look that complements your home's architecture and landscape. Our experienced installers use precise techniques to ensure that your stamped concrete is durable, long-lasting, and visually stunning. Whether you're looking to create a rustic stone patio or a modern brick driveway, Sotres Concrete can bring your vision to life. We also offer stamped concrete repair and restoration services to keep your surfaces looking their best for years to come.",
+        "process": [
+          "Step 1: Design Selection and Preparation",
+          "Step 2: Concrete Pouring and Coloring",
+          "Step 3: Stamping and Texturing",
+          "Step 4: Sealing and Curing"
+        ],
+        "benefits": [
+          "Enhanced aesthetic appeal",
+          "Increased property value",
+          "Customizable designs",
+          "Durable and low-maintenance"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between stamped concrete and pavers?",
+            "answer": "Stamped concrete is a continuous concrete slab that is imprinted with a pattern, while pavers are individual stones or bricks that are laid in a pattern. Stamped concrete is typically more affordable and easier to maintain than pavers."
+          },
+          {
+            "question": "How do I choose the right stamp pattern and color?",
+            "answer": "We can help you choose the right stamp pattern and color based on your home's architecture, landscape, and personal preferences. We offer a wide range of options to choose from."
+          },
+          {
+            "question": "How long does stamped concrete last?",
+            "answer": "With proper installation and maintenance, stamped concrete can last for many years. We recommend sealing your stamped concrete every 2-3 years to protect it from stains and damage."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "New Orleans",
+        "slug": "new-orleans-la",
+        "state": "LA",
+        "content": "Sotres Concrete is proud to offer comprehensive concrete services to the residents and businesses of New Orleans, Louisiana. From the historic French Quarter to the vibrant Garden District, we understand the unique architectural styles and challenges that come with working in this iconic city. We are committed to providing high-quality concrete solutions that stand the test of time, whether it's a new driveway, a decorative patio, or foundation repairs. \n\nOur team is experienced in navigating the specific permitting processes and regulations in New Orleans. We prioritize clear communication and attention to detail to ensure your project is completed efficiently and to your exact specifications. Sotres Concrete is dedicated to enhancing the beauty and durability of your property with expert craftsmanship and reliable service.",
+        "localContext": "New Orleans, renowned for its rich cultural heritage, distinct architecture, and lively atmosphere, requires concrete solutions that are both aesthetically pleasing and structurally sound to withstand the local climate.",
+        "nearbyAreas": [
+          "Metairie",
+          "Kenner",
+          "Gretna"
+        ]
+      },
+      {
+        "city": "Metairie",
+        "slug": "metairie-la",
+        "state": "LA",
+        "content": "Sotres Concrete extends its expert concrete services to Metairie, Louisiana, a thriving community just outside of New Orleans. We cater to the diverse needs of Metairie homeowners and businesses, offering everything from concrete driveways and patios to foundations and repairs. Our commitment to quality and customer satisfaction makes us a trusted choice in the area.\n\nWe understand the importance of durable and aesthetically pleasing concrete work. Whether you're looking to enhance your home's curb appeal or require a reliable foundation for your business, Sotres Concrete is here to provide tailored solutions. We pride ourselves on our attention to detail, ensuring every project is completed to the highest standards.",
+        "localContext": "Metairie, a large suburban community known for its family-friendly environment and strong business sector, demands dependable concrete services that enhance property value and ensure structural integrity.",
+        "nearbyAreas": [
+          "New Orleans",
+          "Kenner",
+          "River Ridge"
+        ]
+      },
+      {
+        "city": "Kenner",
+        "slug": "kenner-la",
+        "state": "LA",
+        "content": "Sotres Concrete is pleased to provide top-notch concrete services to the residents and businesses of Kenner, Louisiana. As a leading concrete contractor, we offer a wide range of services, including driveways, patios, sidewalks, and foundations. We are dedicated to delivering exceptional results that meet your specific needs and budget.\n\nOur experienced team is familiar with the local building codes and regulations in Kenner. We prioritize clear communication and efficient project management to ensure your project is completed on time and within budget. Sotres Concrete is committed to enhancing the value and functionality of your property with our expert concrete solutions.",
+        "localContext": "Kenner, a bustling city with a mix of residential and commercial properties near the Louis Armstrong New Orleans International Airport, requires concrete solutions that are both functional and aesthetically appealing.",
+        "nearbyAreas": [
+          "Metairie",
+          "New Orleans",
+          "River Ridge"
+        ]
+      },
+      {
+        "city": "Gretna",
+        "slug": "gretna-la",
+        "state": "LA",
+        "content": "Sotres Concrete proudly serves the community of Gretna, Louisiana, offering a comprehensive range of concrete services. We understand the unique needs of Gretna residents and businesses, delivering high-quality concrete solutions for driveways, patios, foundations, and more. Our commitment to excellence and customer satisfaction sets us apart.\n\nWe are dedicated to providing durable and aesthetically pleasing concrete work that enhances the value and functionality of your property. Whether you're looking to upgrade your home's curb appeal or require reliable concrete services for your business, Sotres Concrete is here to help. We prioritize clear communication and attention to detail, ensuring every project is completed to the highest standards.",
+        "localContext": "Gretna, a historic city on the west bank of the Mississippi River, features a mix of historic buildings and modern development, requiring concrete services that respect its unique character.",
+        "nearbyAreas": [
+          "New Orleans",
+          "Harvey",
+          "Marrero"
+        ]
+      },
+      {
+        "city": "Harvey",
+        "slug": "harvey-la",
+        "state": "LA",
+        "content": "Sotres Concrete is dedicated to providing exceptional concrete services to the residents and businesses of Harvey, Louisiana. We offer a wide range of services, including concrete driveways, patios, sidewalks, and foundations. Our commitment to quality craftsmanship and customer satisfaction makes us a trusted choice in the Harvey community.\n\nWe understand the importance of durable and reliable concrete work. Whether you're looking to enhance your home's outdoor living space or require a solid foundation for your commercial building, Sotres Concrete is here to provide tailored solutions. We pride ourselves on our attention to detail, ensuring every project is completed to the highest standards.",
+        "localContext": "Harvey, a growing community in Jefferson Parish with a mix of residential and industrial areas, demands dependable concrete services for both homes and businesses.",
+        "nearbyAreas": [
+          "Gretna",
+          "Marrero",
+          "Westwego"
+        ]
+      },
+      {
+        "city": "Marrero",
+        "slug": "marrero-la",
+        "state": "LA",
+        "content": "Sotres Concrete is pleased to offer its professional concrete services to the community of Marrero, Louisiana. From residential driveways and patios to commercial foundations and repairs, we provide comprehensive concrete solutions tailored to your specific needs. Our commitment to quality and customer satisfaction is unwavering.\n\nWe understand the importance of durable and aesthetically pleasing concrete work. Whether you're looking to enhance your home's curb appeal or require a reliable foundation for your business, Sotres Concrete is here to provide expert service. We prioritize clear communication and efficient project management to ensure your project is completed on time and within budget.",
+        "localContext": "Marrero, a diverse community on the west bank of the Mississippi River, requires concrete solutions that are both functional and aesthetically appropriate for its varied neighborhoods.",
+        "nearbyAreas": [
+          "Harvey",
+          "Gretna",
+          "Westwego"
+        ]
+      },
+      {
+        "city": "Westwego",
+        "slug": "westwego-la",
+        "state": "LA",
+        "content": "Sotres Concrete is proud to serve the residents and businesses of Westwego, Louisiana, with top-quality concrete services. We offer a full range of services, including driveways, patios, sidewalks, and foundations. Our experienced team is dedicated to delivering exceptional results that meet your specific needs and exceed your expectations.\n\nWe understand the importance of durable and reliable concrete work. Whether you're looking to enhance your home's outdoor living space or require a solid foundation for your commercial building, Sotres Concrete is here to provide tailored solutions. We pride ourselves on our attention to detail and commitment to customer satisfaction.",
+        "localContext": "Westwego, a historic city with a strong maritime heritage, requires concrete solutions that are both durable and able to withstand the coastal environment.",
+        "nearbyAreas": [
+          "Marrero",
+          "Harvey",
+          "Bridge City"
+        ]
+      },
+      {
+        "city": "River Ridge",
+        "slug": "river-ridge-la",
+        "state": "LA",
+        "content": "Sotres Concrete extends its expert concrete services to River Ridge, Louisiana, a charming community known for its beautiful homes and well-maintained properties. We cater to the diverse needs of River Ridge homeowners and businesses, offering everything from concrete driveways and patios to foundations and repairs. Our commitment to quality and customer satisfaction makes us a trusted choice in the area.\n\nWe understand the importance of durable and aesthetically pleasing concrete work. Whether you're looking to enhance your home's curb appeal or require a reliable foundation for your business, Sotres Concrete is here to provide tailored solutions. We pride ourselves on our attention to detail, ensuring every project is completed to the highest standards.",
+        "localContext": "River Ridge, an affluent community with a focus on residential living, demands dependable concrete services that enhance property value and maintain the area's aesthetic appeal.",
+        "nearbyAreas": [
+          "Harahan",
+          "Metairie",
+          "Kenner"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Concrete Patio",
+        "text": "Sotres Concrete did an amazing job on our new patio! They helped us choose a design that perfectly complements our backyard, and the finished product is even better than we imagined. The crew was professional, efficient, and cleaned up everything afterwards. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Driveway Replacement",
+        "text": "We had Sotres Concrete replace our old, cracked driveway. The team was prompt and professional. There was a slight delay due to weather, but they communicated clearly throughout the process. The new driveway looks great and seems very durable.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Karen L.",
+        "rating": 5,
+        "service": "Concrete Foundation Repair",
+        "text": "After noticing some cracks in our walls, we called Sotres Concrete to inspect our foundation. They quickly identified the problem and provided a detailed repair plan. The repairs were completed efficiently and professionally, and we now have peace of mind knowing that our foundation is solid.",
+        "date": "2024-09-08"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Stamped Concrete Walkway",
+        "text": "Sotres Concrete transformed our boring walkway into a beautiful stamped concrete path. The design options were extensive, and the installation was flawless. The crew was friendly and respectful, and they left the area spotless. We've received so many compliments on our new walkway!",
+        "date": "2025-01-22"
+      },
+      {
+        "name": "Michelle P.",
+        "rating": 4,
+        "service": "Sidewalk Repair",
+        "text": "We had a section of our sidewalk that was cracked and uneven, creating a tripping hazard. Sotres Concrete quickly repaired the damaged section, making it safe and accessible again. The repair was seamless and blends in perfectly with the existing sidewalk.",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "John K.",
+        "rating": 5,
+        "service": "Concrete Patio Extension",
+        "text": "We needed to extend our existing patio to create more outdoor living space. Sotres Concrete provided a competitive quote and completed the extension efficiently and professionally. The new patio seamlessly blends in with the old, and we're thrilled with the results.",
+        "date": "2025-02-10"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Sotres Concrete | New Orleans Concrete",
+        "description": "New Orleans' trusted concrete contractor. Driveways, patios, foundations, repairs. Quality work, local expertise."
+      },
+      "about": {
+        "title": "About Sotres Concrete | New Orleans",
+        "description": "Learn about Sotres Concrete, a local New Orleans contractor. Quality concrete services, community commitment."
+      },
+      "services": {
+        "title": "Concrete Services | Sotres Concrete NOLA",
+        "description": "Sotres Concrete offers concrete driveways, patios, foundations, repairs & more in New Orleans. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact Sotres Concrete | Free Quote",
+        "description": "Get a free concrete quote from Sotres Concrete in New Orleans. Call us today for your concrete needs!"
+      },
+      "reviews": {
+        "title": "Sotres Concrete Reviews | New Orleans",
+        "description": "Read reviews from Sotres Concrete customers in New Orleans. Quality concrete services, satisfied clients."
+      },
+      "service-areas": {
+        "title": "Sotres Concrete Service Areas | NOLA",
+        "description": "Sotres Concrete provides concrete services in New Orleans and surrounding areas. Check our service area coverage."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "concrete-driveways": "/images/service-concrete-driveways.webp",
+      "concrete-patios": "/images/service-concrete-patios.webp",
+      "concrete-foundations": "/images/service-concrete-foundations.webp",
+      "concrete-sidewalks": "/images/service-concrete-sidewalks.webp",
+      "concrete-repairs": "/images/service-concrete-repairs.webp",
+      "stamped-concrete": "/images/service-stamped-concrete.webp"
+    },
+    "servicesResponsive": {
+      "concrete-driveways": {
+        "src": "/images/service-concrete-driveways.webp",
+        "srcset": "/images/service-concrete-driveways-400w.webp 400w, /images/service-concrete-driveways-800w.webp 800w, /images/service-concrete-driveways-1200w.webp 1200w, /images/service-concrete-driveways.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-patios": {
+        "src": "/images/service-concrete-patios.webp",
+        "srcset": "/images/service-concrete-patios-400w.webp 400w, /images/service-concrete-patios-800w.webp 800w, /images/service-concrete-patios-1200w.webp 1200w, /images/service-concrete-patios.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-foundations": {
+        "src": "/images/service-concrete-foundations.webp",
+        "srcset": "/images/service-concrete-foundations-400w.webp 400w, /images/service-concrete-foundations-800w.webp 800w, /images/service-concrete-foundations-1200w.webp 1200w, /images/service-concrete-foundations.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-sidewalks": {
+        "src": "/images/service-concrete-sidewalks.webp",
+        "srcset": "/images/service-concrete-sidewalks-400w.webp 400w, /images/service-concrete-sidewalks-800w.webp 800w, /images/service-concrete-sidewalks-1200w.webp 1200w, /images/service-concrete-sidewalks.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-repairs": {
+        "src": "/images/service-concrete-repairs.webp",
+        "srcset": "/images/service-concrete-repairs-400w.webp 400w, /images/service-concrete-repairs-800w.webp 800w, /images/service-concrete-repairs-1200w.webp 1200w, /images/service-concrete-repairs.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "stamped-concrete": {
+        "src": "/images/service-stamped-concrete.webp",
+        "srcset": "/images/service-stamped-concrete-400w.webp 400w, /images/service-stamped-concrete-800w.webp 800w, /images/service-stamped-concrete-1200w.webp 1200w, /images/service-stamped-concrete.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
